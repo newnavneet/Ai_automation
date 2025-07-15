@@ -1,0 +1,7 @@
+
+Prompt: What is java
+GPT-3.5:
+GPT-3.5 says: Java is a high-level, class-based, object-oriented programming language used for building applications.
+GPT-4:
+GPT-4 says: Java is a high-level, class-based, object-oriented programming language used for building applications.
+============================================================
